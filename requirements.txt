@@ -1,0 +1,15 @@
+streamlit
+pandas
+duckdb
+plotly
+kaggle
+google-generativeai
+python-dotenv
+tqdm
+fpdf2
+kaleido
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+openai
