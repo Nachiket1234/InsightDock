@@ -17,6 +17,11 @@ InsightDock is an **intelligent analytics platform** that lets you explore Brazi
 - 🔄 **4 AI Providers** → Never worry about API downtime
 - 📊 **Real-time Dashboard** → Live metrics and regional insights
 
+
+
+
+https://github.com/user-attachments/assets/63f25f10-e8f2-43eb-a97d-dbe2426b511e
+
 ---
 
 ## 🚀 Quick Start (3 Steps!)
